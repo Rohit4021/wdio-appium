@@ -14,8 +14,7 @@
         "@wdio/spec-reporter": "^7.25.4"
     },
     "scripts": {
-        //"wdio": "wdio run wdio.conf.js",
-        "start": "wdio run wdio.conf.js"
+        "start": "npx wdio run wdio.conf.js"
     },
     "dependencies": {
         "appium": "^1.22.3"
