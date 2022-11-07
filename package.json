@@ -14,7 +14,7 @@
         "@wdio/spec-reporter": "^7.25.4"
     },
     "scripts": {
-        "wdio": "wdio run wdio.conf.js"
+        "wdio": "wdio run wdio.conf.js",
         "start": "wdio run wdio.conf.js"
     },
     "dependencies": {
